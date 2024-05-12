@@ -12,6 +12,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 
 }
 .world-view{
@@ -38,5 +39,5 @@ section{
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-
+    background-position: right;
 }
